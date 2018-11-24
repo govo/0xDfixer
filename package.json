@@ -1,0 +1,22 @@
+{
+  "name": "fix0xd",
+  "version": "1.0.0",
+  "description": "fix 0xD to 0xA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govo/0xDfixer.git"
+  },
+  "keywords": [
+    "character"
+  ],
+  "author": "govo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/govo/0xDfixer/issues"
+  },
+  "homepage": "https://github.com/govo/0xDfixer#readme"
+}
